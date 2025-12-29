@@ -1,1 +1,1 @@
-# MIR
+# MIR (Multiplexed Intermediate Representation)
